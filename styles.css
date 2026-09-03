@@ -36,6 +36,12 @@ body{
   margin: 20px;
 }
 
+.product{
+  font-family: montserrat;
+  font-size: 12px;
+  color: var(--gray);
+}
+
 .price-line{
   display: flex;
   column-gap: 20px;
