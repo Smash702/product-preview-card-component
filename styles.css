@@ -1,0 +1,30 @@
+:root{
+  --green-500: hsl(158, 36%, 37%);
+  --green-700: hsl(158, 42%, 18%);
+  --black: hsl(212, 21%, 14%);
+  --gray: hsl(228, 12%, 48%);
+  --cream: hsl(30, 38%, 92%);
+  --white: hsl(0, 0%, 100%);
+}
+
+body{
+  background-color: var(--cream);
+}
+
+.card-section{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.card{
+  height: 350px;
+  background-color: var(--white);
+  display: flex;
+  width: 450px;
+} 
+
+.product-image{
+  height: 300px;
+}
