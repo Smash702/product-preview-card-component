@@ -46,3 +46,10 @@ body{
   display: flex;
   column-gap: 20px;
 }
+
+.current-price{
+  color: var(--green-500);
+  font-size: 30px;
+  font-weight: 700;
+  font-family: fraunces;
+}
