@@ -41,7 +41,6 @@ body{
 
 .add-button{
   width: 300px;
-  height: 60px;
 }
 }
 
@@ -112,7 +111,7 @@ body{
 
 .add-button{
   background-color: var(--green-500);
-  height: 50px;
+  height: 40px;
   width: 180px;
   border: none;
   border-radius: 2px;
